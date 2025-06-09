@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Browser Search Engine AI Tools</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      padding: 20px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: #ffffff;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 12px 15px;
+      text-align: left;
+      border: 1px solid #ddd;
+    }
+    th {
+      background-color: #0077cc;
+      color: white;
+    }
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+    caption {
+      font-size: 1.8em;
+      margin-bottom: 15px;
+      font-weight: bold;
+    }
+    img.browser-icon {
+      width: 32px;
+      height: 32px;
+      vertical-align: middle;
+    }
+    td img {
+      max-height: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<table>
+  <caption>Browser, Search Engines & AI Tools Comparison</caption>
+  <thead>
+    <tr>
+      <th>Browser Icon</th>
+      <th>Web Browser</th>
+      <th>Search Engine</th>
+      <th>AI Tool Used</th>
+      <th>Key AI Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282023%29.svg" alt="Chrome" class="browser-icon"></td>
+      <td>Google Chrome</td>
+      <td>Google Search</td>
+      <td>Search Generative Experience (SGE)</td>
+      <td>AI-powered answers, topic summaries, contextual search</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg" alt="Edge" class="browser-icon"></td>
+      <td>Microsoft Edge</td>
+      <td>Bing</td>
+      <td>Copilot (GPT-4)</td>
+      <td>AI chat, summarize, write, sidebar assistant</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Mozilla_Firefox_2023_Icon.svg" alt="Firefox" class="browser-icon"></td>
+      <td>Mozilla Firefox</td>
+      <td>Google (default) or customizable</td>
+      <td>Third-Party AI Extensions</td>
+      <td>Summarizers, translators, ChatGPT integrations via add-ons</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apple_Safari.png" alt="Safari" class="browser-icon"></td>
+      <td>Safari</td>
+      <td>Google Search</td>
+      <td>Siri + ChatGPT (via web)</td>
+      <td>Siri suggestions, voice search, plugin support</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Brave_Logo.png" alt="Brave" class="browser-icon"></td>
+      <td>Brave</td>
+      <td>Brave Search</td>
+      <td>Leo AI</td>
+      <td>Private AI assistant, page summarization, chat interface</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>
